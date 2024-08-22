@@ -1,3 +1,6 @@
 [submodule "tradeit"]
 	path = tradeit
 	url = /Users/nashback/tradittests/tradeit_1
+[submodule "TradeiT"]
+	path = TradeiT
+	url = https://github.com/nishantbakhru/TradeiT.git
